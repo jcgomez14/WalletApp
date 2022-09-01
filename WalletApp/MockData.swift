@@ -14,7 +14,3 @@ let cardsData : [Card] = [
 
 ]
 
-
-let userData : [UserData] = [
-    .init(nameUser: "Juan Cruz", incomeUser: 1529, expenseUser: 430)
-]

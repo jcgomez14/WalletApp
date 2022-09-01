@@ -26,7 +26,3 @@ final class Wallet : ObservableObject {
         
     }
 }
-
-
-
-
